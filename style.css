@@ -1,0 +1,15 @@
+#muras {
+    background: rgb(108, 201, 108);
+    color: rgb(33, 85, 12);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    border-radius: 45px;
+    padding-left: 2%;
+    padding-bottom: 3%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+    font-style: italic;
+}
